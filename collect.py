@@ -5,7 +5,7 @@ Pure standard library. Writes data/suggest.json and data/reddit.json.
 import json, time, urllib.parse, urllib.request
 from config import SUGGEST_SEEDS, SUBREDDITS, REDDIT_TITLE_TERMS, REDDIT_AFTER
 
-UA = {"User-Agent": "engineer-question-audit/0.1 (research; contact james@marketinginaction.xyz)"}
+UA = {"User-Agent": "ai-answer-visibility-audit/0.1 (research; contact james@marketinginaction.xyz)"}
 
 def get_json(url, tries=4):
     for i in range(tries):
