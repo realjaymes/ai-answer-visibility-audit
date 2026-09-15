@@ -1,0 +1,62 @@
+[
+  {
+    "theme": "quoting_from_drawings",
+    "question": "How do I get a quote for CNC machined parts from my CAD file?",
+    "evidence": "autocomplete: cnc machining quote online / software"
+  },
+  {
+    "theme": "quoting_from_drawings",
+    "question": "What is the best online quoting service or software for sheet metal parts?",
+    "evidence": "autocomplete: sheet metal quote online / software"
+  },
+  {
+    "theme": "quoting_from_drawings",
+    "question": "How much does custom CNC machining cost?",
+    "evidence": "autocomplete: how much does custom cnc machining cost"
+  },
+  {
+    "theme": "process_selection",
+    "question": "Should I use CNC machining or 3D printing for my part?",
+    "evidence": "autocomplete: cnc vs 3d printing cost"
+  },
+  {
+    "theme": "process_selection",
+    "question": "Is 3D printing cheaper than injection molding for low-volume parts?",
+    "evidence": "autocomplete: is 3d printing cheaper than injection molding"
+  },
+  {
+    "theme": "design_for_manufacturing",
+    "question": "What DFM analysis tools can check my part design before manufacturing?",
+    "evidence": "autocomplete: dfm analysis software / tools / online"
+  },
+  {
+    "theme": "design_for_manufacturing",
+    "question": "What is a good design for manufacturing checklist for machined parts?",
+    "evidence": "autocomplete: design for manufacturing checklist"
+  },
+  {
+    "theme": "material_selection",
+    "question": "What is the best 3D printing material for functional mechanical parts?",
+    "evidence": "autocomplete: best 3d printing material for mechanical parts"
+  },
+  {
+    "theme": "finding_suppliers",
+    "question": "How do I find a good machine shop or manufacturing partner for a custom part?",
+    "evidence": "autocomplete: how to find a good machine shop / manufacturing partner"
+  },
+  {
+    "theme": "ai_category",
+    "question": "What AI manufacturing quoting software is available?",
+    "evidence": "autocomplete: ai manufacturing quoting software"
+  },
+  {
+    "theme": "ai_category",
+    "question": "Is there AI software that reads engineering drawings or CAD models and recommends how to manufacture a part and which supplier to use?",
+    "evidence": "category check: Arcessio's own claim"
+  },
+  {
+    "theme": "defense_legacy_parts",
+    "question": "How can the Department of Defense source obsolete legacy spare parts faster, for example with 3D printing?",
+    "evidence": "category check: the topic of Arcessio's existing articles"
+  }
+]

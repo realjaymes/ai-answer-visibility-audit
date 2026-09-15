@@ -1,0 +1,94 @@
+{
+  "questions_asked": 12,
+  "brand_mentions": 0,
+  "top_cited_domains": [
+    [
+      "xometry.com",
+      9
+    ],
+    [
+      "protolabs.com",
+      8
+    ],
+    [
+      "fictiv.com",
+      3
+    ],
+    [
+      "paperlessparts.com",
+      2
+    ],
+    [
+      "sendcutsend.com",
+      1
+    ],
+    [
+      "get.secturafab.com",
+      1
+    ],
+    [
+      "help.solidworks.com",
+      1
+    ],
+    [
+      "autodesk.com",
+      1
+    ],
+    [
+      "help.prusa3d.com",
+      1
+    ],
+    [
+      "ultimaker.com",
+      1
+    ]
+  ],
+  "top_named_companies": [
+    [
+      "Xometry",
+      9
+    ],
+    [
+      "Protolabs",
+      8
+    ],
+    [
+      "Fictiv",
+      3
+    ],
+    [
+      "Paperless Parts",
+      2
+    ],
+    [
+      "SecturaFAB",
+      1
+    ],
+    [
+      "SendCutSend",
+      1
+    ],
+    [
+      "Autodesk Fusion",
+      1
+    ],
+    [
+      "SOLIDWORKS DFMXpress",
+      1
+    ],
+    [
+      "Prusa",
+      1
+    ],
+    [
+      "Prusament PC Blend",
+      1
+    ]
+  ],
+  "autocomplete_seeds": 17,
+  "autocomplete_queries": 116,
+  "pages_checked": 15,
+  "pages_under_25_raw_words": 14,
+  "raw_words_total": 962,
+  "rendered_words_total": 10762
+}
