@@ -2,7 +2,7 @@
 
 A small workflow I built to answer one question for a company: **when its buyers ask an AI assistant a real question, does the company show up in the answer, and can AI crawlers even read its site?**
 
-I built it while applying for a founding growth marketing role at [Arcessio](https://arcessio.ai), an AI company that turns engineering drawings and CAD models into manufacturing decisions. Their job post asked candidates to show something they had built with AI, so instead of describing how I would approach answer engine optimization (AEO), I built the tool and ran it on their market.
+I built it for [Arcessio](https://arcessio.ai), an AI company that turns engineering drawings and CAD models into manufacturing decisions. Their job post asked candidates to show something they had built with AI, so instead of describing how I would approach answer engine optimization (AEO), I built the tool and ran it on their market.
 
 ---
 
